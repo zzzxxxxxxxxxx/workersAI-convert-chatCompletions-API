@@ -50,6 +50,7 @@ const TEXT_GENERATION_MODELS = {
 	'qwen1.5-1.8b-chat': '@cf/qwen/qwen1.5-1.8b-chat',
 	'qwen1.5-14b-chat-awq': '@cf/qwen/qwen1.5-14b-chat-awq',
 	'qwen1.5-7b-chat-awq': '@cf/qwen/qwen1.5-7b-chat-awq',
+	'qwen3-30b-a3b-thinking': '@cf/qwen/qwen3-30b-a3b-fp8',
 	'sqlcoder-7b-2': '@cf/defog/sqlcoder-7b-2',
 	'starling-lm-7b-beta': '@hf/nexusflow/starling-lm-7b-beta',
 	'tinyllama-1.1b-chat-v1.0': '@cf/tinyllama/tinyllama-1.1b-chat-v1.0',
