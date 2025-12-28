@@ -1,4 +1,4 @@
-name = "text-generation"
+name = "workers-ai"
 main = "_worker.js"
 compatibility_date = "2024-10-31"
 preview_urls = false
