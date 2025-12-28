@@ -57,7 +57,7 @@ const TEXT_GENERATION_MODELS = {
 	'una-cybertron-7b-v2-bf16': '@cf/fblgit/una-cybertron-7b-v2-bf16',
 	'zephyr-7b-beta-awq': '@hf/thebloke/zephyr-7b-beta-awq',
 };
-const DEFAULT_MODEL = 'gemma-7b-it-lora'; // 默认模型，根据 TEXT_GENERATION_MODELS 的 key 键修改
+const DEFAULT_MODEL = 'qwen3-30b-a3b-thinking'; // 默认模型，根据 TEXT_GENERATION_MODELS 的 key 键修改
 
 // 主处理函数
 var worker_default = {
